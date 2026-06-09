@@ -8,9 +8,6 @@ size distribution fitting, multi-bin Noyes-Whitney dissolution simulation,
 IVIVC Level A correlation, 7-compartment GI-PBPK absorption modeling, and
 final PBBM-based biowaiver assessment with dissolution safe space determination.
 
-Built to directly support the FDA Division of Biopharmaceutics (OPQ/ONDP/CDER)
-workflow for developing predictive dissolution methods for medium and high risk
-solid oral IR products.
 
 **Drug:** Ibuprofen (BCS Class II prototype — low solubility, high permeability)  
 **Dose:** 400 mg oral IR tablet
