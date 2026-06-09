@@ -1,0 +1,4 @@
+particle_grade,AUC_ug_h_mL,Cmax_ug_mL,AUC_ratio_pct,Cmax_ratio_pct
+Reference (D50=150μm),41202.2,17378.9,99.0,91.0
+Micronized (D50=25μm),41627.8,19092.2,100.0,100.0
+Nano (D50=1μm),41714.0,19278.0,100.2,101.0
