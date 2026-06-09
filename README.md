@@ -10,7 +10,7 @@ final PBBM-based biowaiver assessment with dissolution safe space determination.
 
 Built to directly support the FDA Division of Biopharmaceutics (OPQ/ONDP/CDER)
 workflow for developing predictive dissolution methods for medium and high risk
-solid oral IR products — the focus of Dr. Bhagwant Rege's PBBM model library project.
+solid oral IR products.
 
 **Drug:** Ibuprofen (BCS Class II prototype — low solubility, high permeability)  
 **Dose:** 400 mg oral IR tablet
